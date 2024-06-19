@@ -46,13 +46,6 @@ The dataset includes the following predictors/features:
 - `Test_data_example.csv`: Example test data file.
 - `Test_data_example_targets.csv`: Example test targets file.
 
-## Instructions
-
-1. Clone the repository.
-2. Run the Jupyter notebook to see the data analysis and model training process.
-3. Follow the steps in the notebook to train and evaluate your models.
-4. Use the inference script to make predictions on new, unseen data.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
